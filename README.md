@@ -1,6 +1,6 @@
 # Engenharia_De_software_Faculdade
 01-Declaração do Escopo 02-Integrantes do Projeto 03-Regras de Comunicação 04-Glossário 05-Referências 06-Lista de Necessidades
-<center><img  src="https://www.impacta.edu.br/themes/wc_agenciar3/images/logo-new.png"></center>
+<div align ="center"><img  src="https://www.impacta.edu.br/themes/wc_agenciar3/images/logo-new.png"></div>
 <div align="center">
 <hr><h2>Grupo 4</h2> </hr>
 </div>
