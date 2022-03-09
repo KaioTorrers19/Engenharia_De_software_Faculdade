@@ -1,7 +1,9 @@
 # Engenharia_De_software_Faculdade
 01-Declaração do Escopo 02-Integrantes do Projeto 03-Regras de Comunicação 04-Glossário 05-Referências 06-Lista de Necessidades
 <center><img  src="https://www.impacta.edu.br/themes/wc_agenciar3/images/logo-new.png"></center>
-<hr><h2 aling ="center">Grupo 4</h2> </hr>
+<div align="center">
+<hr><h2>Grupo 4</h2> </hr>
+</div>
 <hr></hr>
 <h3> Guilherme Felipe De Oliveira </h3>
 <p>RA: 2102445 </p>
