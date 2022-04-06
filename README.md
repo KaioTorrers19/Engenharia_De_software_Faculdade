@@ -5,7 +5,7 @@
 <hr><h2>Grupo 4</h2> </hr>
 </div>
 <hr></hr>
-  <div>
+  <div align ="center">
 <h3> Guilherme Felipe De Oliveira </h3>
 <p>RA: 2102445 </p>
 
