@@ -3,6 +3,7 @@
   <hr></hr>
 <div align="center">
 <h2>Grupo 4</h2> 
+  <br>
 </div>
   <div align ="center">
  <table style=>
