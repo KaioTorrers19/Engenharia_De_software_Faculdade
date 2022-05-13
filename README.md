@@ -1,7 +1,8 @@
 # Engenharia_De_software_Faculdade
 <div align ="center"><img  src="https://www.impacta.edu.br/themes/wc_agenciar3/images/logo-new.png"></div>
+  <hr></hr>
 <div align="center">
-<hr><h2>Grupo 4</h2> </hr>
+<h2>Grupo 4</h2> 
 </div>
   <div align ="center">
  <table style=>
@@ -15,19 +16,19 @@
       </tr>
    <tr>
 <td> Italo Damasceno Nabat </td>
-<td> RA: 2103032 </td>
+<td>  2103032 </td>
    </tr>
     <tr>
 <td> Jefferson Leite De Sousa </td>
-<td> RA: 2102500 </td>
+<td>  2102500 </td>
   </tr>
   <tr>
 <td> Kaio Torres De Araujo </td>
-<td> RA: 2102632 </td>
+<td>  2102632 </td>
   </tr>
   <tr>
 <td> Vinicius Domingos De Souza </td>
-<td> RA: 2102859 </td>
+<td>  2102859 </td>
   </tr>
 </div>
 </table>
