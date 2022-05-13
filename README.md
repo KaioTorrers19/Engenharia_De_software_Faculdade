@@ -3,21 +3,31 @@
 <div align="center">
 <hr><h2>Grupo 4</h2> </hr>
 </div>
-<hr></hr>
   <div align ="center">
-<h3> Guilherme Felipe De Oliveira </h3>
-<p>RA: 2102445 </p>
-
-<h3> Italo Damasceno Nabat </h3>
-<p> RA: 2103032 </h3>
-
-<h3> Jefferson Leite De Sousa </h3>
-<p> RA: 2102500 </p>
-
-<h3> Kaio Torres De Araujo </h3>
-<p> RA: 2102632 </p>
-
-<h3> Vinicius Domingos De Souza </h3>
-<p> RA: 2102859 </p>
+ <table style=>
+   <Tr>
+     <th>Nome</th>
+     <th>RA</th>
+     </tr>
+   <tr>
+     <td>  Guilherme Felipe De Oliveira  </th>
+     <td> 2102445  </th>
+      </tr>
+   <tr>
+<td> Italo Damasceno Nabat </td>
+<td> RA: 2103032 </td>
+   </tr>
+    <tr>
+<td> Jefferson Leite De Sousa </td>
+<td> RA: 2102500 </td>
+  </tr>
+  <tr>
+<td> Kaio Torres De Araujo </td>
+<td> RA: 2102632 </td>
+  </tr>
+  <tr>
+<td> Vinicius Domingos De Souza </td>
+<td> RA: 2102859 </td>
+  </tr>
 </div>
-<hr></hr>
+</table>
