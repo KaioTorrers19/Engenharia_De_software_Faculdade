@@ -1,11 +1,13 @@
 # Engenharia_De_software_Faculdade
 <div align ="center"><img  src="https://www.impacta.edu.br/themes/wc_agenciar3/images/logo-new.png"></div>
+<h3>Projeto desenvolvido para a matéria de Engenharia de Software da Faculdade IMPACTA.</h3>
   <hr></hr>
 <div align="center">
 <h2>Grupo 4</h2> 
   <br>
 </div>
   <div align ="center">
+  <h3> contribuíram para este projeto:</h3>
  <table style=>
    <Tr>
      <th>Nome</th>
